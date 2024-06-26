@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-Team 5 Project 2
+Team 5: Project 2
 
 
 Team Members: Savi Rahiman and Alyssa Jones
@@ -24,6 +24,6 @@ Part 3 - Creating the Entity Relationship Diagram (ERD):
 Using the four csv files created from the previous parts, an ERD was created using https://www.quickdatabasediagrams.com. The ERD was then exported into PostgreSQL.
 
 
-Part 4 - Creating the SQL Database Schema
+Part 4 - Creating the SQL Database Schema:
 
 Using the database schema, crowdfunding_db.sql was created, which included the appropriate primary and foreign keys from our ERD. We then created four tables, each containing a csv file, respective to their file name. All four tables were ran and checked clear of errors.
